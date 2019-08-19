@@ -7,6 +7,7 @@ public class test1 {
 
 		System.out.println("不准备要这条数据");
 
+
 		
 	
 
