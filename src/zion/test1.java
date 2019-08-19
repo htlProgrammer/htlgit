@@ -8,7 +8,8 @@ public class test1 {
 		System.out.println("添加一条数据");
 
 
-		System.out.println("一行bug跑一天");
+		
+	
 
 
 
